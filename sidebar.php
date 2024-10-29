@@ -53,10 +53,13 @@
                 <input type="text" class="per-info" name="address">
                 <h3>Bio</h3>
                 <textarea name="bio" class="bio"></textarea>
+
+                <h2>FINAL</h2>
             </div>
         </div>
         <div class="footer">
             Footer
+
         </div>
     </div>
 
