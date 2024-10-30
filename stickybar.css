@@ -1,0 +1,15 @@
+.page{
+    display: grid;
+    grid-template-columns: 20vw auto;
+
+}
+
+.sidebar{
+    position: fixed;
+    width: 20vw;
+}
+
+.main{
+    grid-column-start: 2;
+}
+
