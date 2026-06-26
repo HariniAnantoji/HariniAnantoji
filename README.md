@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Harini Anantoji  👋
 
-<!--
-**HariniAnantoji/HariniAnantoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Engineering undergraduate at Ohio State building technology 
+that turns boring experiences into meaningful ones.
 
-Here are some ideas to get you started:
+## Projects
+- **Symboly** — Automated audience engagement detection tool
+- **Healthy Habits** — Full-stack employee health tracking platform 
+  (sleep, steps, water, nutrition) — 7th Place BPA Nationals 2025
+- **MediQuest** — Healthcare tool in progress
+- **Half Baked** — MATLAB math baking game showcased at OSU's 
+  inaugural Capstone & Engineering showcase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Software Engineering Intern @ JPMorgan Chase
+- BPA Nationals Web Development Team Lead
+
+## Connect
+- LinkedIn: linkedin.com/in/harini-anantoji
+- 😄 Pronouns: She/Her
+
